@@ -46,6 +46,6 @@
     "typeahead.js": "^0.11.1"
   },
   "scripts": {
-    "start": "dotnet run"
+    "start": "dotnet Nop.Web.dll"
   }
 }
